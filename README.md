@@ -40,7 +40,12 @@
 
 ## 라이선스
 
-MIT 입니다([LICENSE](LICENSE)). [fmdz387/costats](https://github.com/fmdz387/costats) (MIT) 에서 출발했습니다.
+**JHJ 독점 소프트웨어입니다**([LICENSE](LICENSE)). 설치 파일과 프로그램은 고치지 않은 그대로라면 누구에게나 무료로 나눠도 됩니다.
+소스 코드의 재사용 · 수정 · 재배포와 역설계는 허락하지 않습니다.
+
+포함된 오픈 소스 구성 요소와 출발점인 [fmdz387/costats](https://github.com/fmdz387/costats) 의 고지는 [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) 에 있습니다(그 구성 요소에만 적용).
+2026-11-06 이전에 나온 판은 당시의 MIT 조건으로 배포되었습니다.
+
 ## 문의
 
 서비스 · 광고 · 제휴 문의 jhj@wecco.co.kr
